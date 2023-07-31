@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeT1
+  gitServerName: ICAccount0731
+  gitUrl: https://github.com/MeghaRaj69/EdgeT1
+  gitUsername: MeghaRaj69
+  gitToken: edge.scaffolding.EdgeT1.ICAccount0731.gitToken
+  gitBranch: test/main/test
